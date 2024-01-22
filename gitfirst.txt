@@ -3,3 +3,7 @@ I learn
 Git
 Second lesson
 Commit changes by WEB
+
+Lesson 2
+Git GUI & gitk
+I create clone on my work PC
